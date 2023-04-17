@@ -1,6 +1,7 @@
 import {withTranslation} from "react-i18next";
 import {Row, Col} from "reactstrap";
 import React from "react";
+import CommonButton from "../../../../components/CommonButton";
 
 const _ = require('lodash');
 
